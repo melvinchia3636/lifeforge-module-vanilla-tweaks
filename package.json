@@ -6,7 +6,7 @@
   "author": "melvinchia3636 <melvinchia623600@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/melvinchia3636/lifeforge-module-vanillaTweaks.git"
+    "url": "https://github.com/melvinchia3636/lifeforge-module-vanilla-tweaks.git"
   },
   "scripts": {
     "types": "cd client && bun tsc",
